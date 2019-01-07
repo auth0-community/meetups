@@ -18,22 +18,13 @@
 </a>
 </div>
 
-Missed our meetup and want to checkout what we talked about? You're in the right place!
+Missed our meetup and want to checkout what we talked about? You're in the right place! You can find here all the content from past talks, meetups, webinars either organized by Auth0 Community or co-organized with other partnering companies.
 
-Basically you can find here two types of content:
+To provide you a quick way to access them, all stuff is listed in below sections. Clicking on each of them you'll be redirected to appropriate content. Flags in front specify their language. Enjoy your reading 🤓
 
-* From meetups organized solely by Auth0 Community Team or co-organized with other partnering companies
-* From meetups led by our ambassadors / community developers
-
-To provide you a quick way to access them all meetups are listed in below section. Clicking on each of them you'll be redirected to appropriate content. Flags in front of the meetups specify the language of the meetup. Enjoy your reading 🤓
-
-### Table of meetups
+### Table of Content
 
 * 🇺🇸 [Modern Identity and MFA](https://github.com/auth0-community/meetups/tree/master/modern-identity-and-mfa) <br>
-
-### Contribution
-
-If you feel like having your meetup content hosted here, ping us at community@auth0.com. We'll provide you with a meetup-info template to fill along with sending your slides and from then on you'll just submit a PR and get your meetup content live in this repo! 🎉
 
 ### License
 
