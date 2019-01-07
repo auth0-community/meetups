@@ -1,0 +1,9 @@
+theme : night
+theme-override : assets/css/PITCHME.css
+#background : assets/images/wallpaper.jpg
+#background-size : contain
+background-size : "90% 90%"
+logo : assets/images/meetuplogo.png
+transition : fade
+published : true
+mousewheel : true
