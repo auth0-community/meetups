@@ -22,10 +22,10 @@ Missed our meetup and want to checkout what we talked about? You're in the right
 
 To provide you a quick way to access them, all stuff is listed in below sections. Clicking on each of them you'll be redirected to appropriate content. Flags in front specify their language. Enjoy your reading 🤓
 
-### Table of Content
+### Table of Meetups
 
 * 🇺🇸 [Modern Identity and MFA](https://github.com/auth0-community/meetups/tree/master/modern-identity-and-mfa) <br>
 
 ### License
 
-This repo is [MIT licensed.](https://github.com/auth0-community/meetups/blob/master/LICENSE)
+This repo is licensed under the MIT license. See the [LICENSE](https://github.com/auth0-community/meetups/blob/master/LICENSE) file for more info.
