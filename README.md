@@ -1,5 +1,4 @@
 <div align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 <br>
 <img src="/Assets/Auth0_Community_Banner.png"
 />
@@ -19,21 +18,9 @@
 </a>
 </div>
 
-Missed our meetup and want to checkout what we talked about? You're in the right place! You can find here all the content from past talks, meetups, webinars either organized by Auth0 Community or co-organized with other partnering companies.
+### Contributors
 
-To provide you a quick way to access them, all stuff is listed in below sections. Clicking on each of them you'll be redirected to appropriate content. Flags in front specify their language. Enjoy your reading 🤓
-
-### Table of Meetups
-
-* 🇺🇸 [Modern Identity and MFA](https://github.com/auth0-community/meetups/tree/master/modern-identity-and-mfa) <br>
-
-### License
-
-This repo is licensed under the MIT license. See the [LICENSE](https://github.com/auth0-community/meetups/blob/master/LICENSE) file for more info.
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people who contribute or maintain this repo ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
@@ -45,4 +32,16 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+## Missed our meetup and want to checkout what we talked about? 
+
+You're in the right place! You can find here all the content from past talks, meetups, webinars either organized by Auth0 Community or co-organized with other partnering companies.
+
+To provide you a quick way to access them, all stuff is listed in below sections. Clicking on each of them you'll be redirected to appropriate content. Flags in front specify their language. Enjoy your reading 🤓
+
+## Table of Meetups
+
+* 🇺🇸 [Modern Identity and MFA](https://github.com/auth0-community/meetups/tree/master/modern-identity-and-mfa) <br>
+
+## License
+
+This repo is licensed under the MIT license. See the [LICENSE](https://github.com/auth0-community/meetups/blob/master/LICENSE) file for more info.
