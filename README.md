@@ -27,6 +27,7 @@ Thanks goes to these wonderful people who contribute or maintain this repo ([emo
 <table>
   <tr>
     <td align="center"><a href="https://twitter.com/beardaway"><img src="https://avatars3.githubusercontent.com/u/11062800?v=4" width="100px;" alt="Conrad Sopala"/><br /><sub><b>Conrad Sopala</b></sub></a><br /><a href="#maintenance-beardaway" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/jerdog"><img src="https://avatars0.githubusercontent.com/u/296864?v=4" width="100px;" alt="Jeremy Meiss"/><br /><sub><b>Jeremy Meiss</b></sub></a><br /><a href="#talk-jerdog" title="Talks">📢</a></td>
   </tr>
 </table>
 
